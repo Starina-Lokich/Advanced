@@ -1,5 +1,3 @@
-// __tests__/destructuring.test.js
-
 import extractSpecial from '../src/destructuring.js';
 
 describe('extractSpecial', () => {

@@ -1,5 +1,3 @@
-// src/index.js
-
 import orderByProps from './orderByProps.js';
 import extractSpecial from './destructuring.js';
 
